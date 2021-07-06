@@ -13,15 +13,19 @@ h1{
     }
     section{
         display: flex;
+        margin-bottom: 100px;
     }
     .half-width{
         width: 50%;
         padding-left: 50px;
+        padding-right: 100px;
     }
     .half-width img{
-        width: 80%; 
-        padding-left: 40px;  
+        width: 90%; 
+        padding-left: -80px; 
+     padding-right: -100px;
         padding-top: 0px;
+        padding-bottom: 250px;
     }
     .button{
         text-decoration: none;
@@ -33,6 +37,154 @@ h1{
         border-radius: 5px;
         color: #D62AD0;
         font-weight: 700;
-
-        
     }
+    .personal-info{
+        background-image: url(images/Frame\ 57.png);
+        width: 100%;
+        padding-bottom: 100px;
+    }
+    .My-Recipies{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        width: 50%;
+        padding-left: 520px;
+        ;
+        
+        
+        
+        font-size: medium;
+}
+
+
+.flex-box1{
+    margin: 35px;
+        padding: 0;
+        text-align:center;
+        width: 30%;
+        background: linear-gradient(#A0CCDA, #a8dadc);
+        color: seashell;
+        padding-bottom: -200px;
+        border-radius: 20px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.flex-box1 img{
+    width: 90%; 
+    padding-left: -80px; 
+ padding-right: -100px;
+    padding-top: 50px;
+    padding-bottom: 250px;
+    
+}
+
+
+
+
+
+
+.flex-box2{
+    margin: 35px;
+    padding: 0;
+    text-align:center;
+    width: 30%;
+    background: linear-gradient(#A0CCDA, #a8dadc);
+    color: seashell;
+    padding-bottom: -200px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       
+}
+
+.flex-box2 img{
+    width: 90%; 
+    padding-left: -80px; 
+ padding-right: -100px;
+    padding-top: 0px;
+    padding-bottom: 250px;
+}
+
+.flex-box3{
+    margin: 35px;
+    padding: 0;
+    text-align:center;
+    width: 30%;
+    background: linear-gradient(#A0CCDA, #a8dadc);
+    color: seashell;
+    padding-bottom: -200px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       
+}
+
+.flex-box3 img{
+    width: 90%; 
+    padding-left: -80px; 
+ padding-right: -100px;
+    padding-top: 0px;
+    padding-bottom: 250px;
+}
+.rectangle{
+    margin: 400px;
+    height: 50%px;
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 30px;
+    background-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+.followers{
+    margin: 150px;
+    word-spacing: 200px;
+    padding: 0;
+    
+    
+    width: 30%;
+    
+    color: seashell;
+    padding-bottom: -200px;
+    border-radius: 20px;
+}
+.followers2{
+    margin: 150px;
+    word-spacing: 200px;
+    padding: 0;
+    
+    
+    width: 50%;
+    
+    color: seashell;
+    padding-bottom: -200px;
+    border-radius: 20px;
+}
+.rectangle2{
+    background-color: black;
+    height: 200PX;
+}
+
+.rectangle2{
+
+}
+.third{
+    color: cyan;
+    margin: 0;
+        padding: 0;
+        text-align: center;
+        width: 50%;
+        padding-left: 820px;
+        
+}
+.fourth{
+    color: wheat;
+    text-align: center;
+}
+footer p { 
+    text-align: center;
+    color: blanchedalmond;
+}
+    
+    
+
